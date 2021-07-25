@@ -1,0 +1,2 @@
+# gom
+discord.gg/gom
